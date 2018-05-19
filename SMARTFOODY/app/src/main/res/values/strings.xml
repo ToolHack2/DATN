@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SMARTFOODY</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="tab1">Xao</string>
+    <string name="tab2">Kho</string>
+    <string name="tab3">Canh</string>
+    <string name="tab4">Salas</string>
+</resources>
